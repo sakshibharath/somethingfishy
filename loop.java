@@ -1,4 +1,3 @@
-package basiccommands;
 public class loops {
 
 	public static void main(String[] args) {
